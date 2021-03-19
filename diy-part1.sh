@@ -29,10 +29,10 @@ git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverc
 git clone https://github.com/destan19/OpenAppFilter.git package/luci-app-oaf
 
 # add ddns.to
-git clone https://github.com/linkease/ddnsto-openwrt package/luci-app-ddnsto
+git clone https://github.com/linkease/ddnsto-openwrt/tree/main/luci-app-ddnsto package/luci-app-ddnsto
 
 # add linkease
-git clone https://github.com/linkease/linkease-openwrt package/luci-app-linkease
+git clone https://github.com/linkease/linkease-openwrt/tree/master/luci-app-linkease package/luci-app-linkease
 
 # 星愿
 git clone https://github.com/jerrykuku/luci-app-ttnode package/luci-app-ttnode
