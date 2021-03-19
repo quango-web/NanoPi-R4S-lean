@@ -26,7 +26,7 @@ git clone https://github.com/kongfl888/luci-app-adguardhome package/luci-app-adg
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
 
 # Add OpenAppFilter
-git clone https://github.com/destan19/OpenAppFilter package/luci-app-oaf
+git clone https://github.com/destan19/OpenAppFilter.git package/luci-app-oaf
 
 # add ddns.to
 git clone https://github.com/linkease/ddnsto-openwrt package/luci-app-ddnsto
